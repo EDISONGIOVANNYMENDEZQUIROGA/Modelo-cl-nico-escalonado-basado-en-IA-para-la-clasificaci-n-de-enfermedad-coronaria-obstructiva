@@ -1,0 +1,2 @@
+# Modelo-cl-nico-escalonado-basado-en-IA-para-la-clasificaci-n-de-enfermedad-coronaria-obstructiva
+Modelo clínico escalonado basado en inteligencia artificial para la clasificación de enfermedad coronaria obstructiva, TRABAJO FIN DE MÁSTER (TFM), Autor: Edison Giovanny Mendez Quiroga, Programa académico: 0225 Master en Aplicaciones de IA en Sanidad, Escuela: CEMP Centro Europeo de Masteres y Posgrados, Director del TFM: Cristian Rodriguez, 2026
